@@ -1,8 +1,3 @@
-Sure! Here is a **clean, professional, and attractive README** for your **GitHub profile repository** (`krushna8767/krushna8767`).
-You can copy–paste this into your `README.md` file.
-
----
-
 # 👋 Hi, I'm **Krushna**
 
 ### 🚀 Data Science | Machine Learning | Deep Learning | Python Developer
